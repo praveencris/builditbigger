@@ -1,114 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../exercises-todo/advance-android-todo/AdvancedAndroid_ClassicalMusicQuiz" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/advance-android-todo/AdvancedAndroid_Emojify" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/advance-android-todo/AdvancedAndroid_Shushme" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/advance-android-todo/AdvancedAndroid_Squawker" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/advance-android-todo/AdvancedAndroid_TeaTime" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.02-Exercise-SaveTaskInDatabaseFromAddTaskActivity" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.03-Exercise-RetrieveTasksFromDatabaseAtMainActivity" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.05-Exercise-DeleteTask" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.06-Exercise-UpdateTask" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson10-Hydration-Reminder/T10.01-Exercise-IntentServices" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson10-Hydration-Reminder/T10.02-Exercise-CreateNotification" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson10-Hydration-Reminder/T10.04-Exercise-PeriodicSyncWithJobDispatcher" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson10-Hydration-Reminder/T10.05-Exercise-ChargingBroadcastReceiver" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson11-Completeing-The-UI/T11.01-Exercise-ConstraintLayout" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson11-Completeing-The-UI/T11.01-Solution-ConstraintLayout" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson11-Completeing-The-UI/T11.02-Exercise-DataBinding" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson11-Completeing-The-UI/T11.02-Solution-DataBinding" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson11-Completeing-The-UI/T11.03-Exercise-LandscapeLayout" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson12-Visual-Polish/T12.01-Exercise-ColorsAndFonts" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson12-Visual-Polish/T12.02-Exercise-CreateNewStyles" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson12-Visual-Polish/T12.03-Exercise-TabletLayout" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Exercises/Lesson12-Visual-Polish/T12.04-Exercise-TouchSelector" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S10.01-Exercise-SynchronizingTheWeather" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S10.01-Solution-SynchronizingTheWeather" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S10.02-Exercise-SmarterSyncing" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S10.02-Solution-SmarterSyncing" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S10.04-Exercise-Notifications" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S10.04-Solution-Notifications" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S11.01-Exercise-NewListItemLayout" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S11.02-Exercise-TodayListItem" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S11.03-Exercise-DetailLayoutAndDataBinding" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S12.01-Exercise-DimensionsColorsAndFonts" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S12.01-Solution-DimensionsColorsAndFonts" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S12.02-Exercise-Styles" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S12.02-Solution-Styles" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../exercises-todo/ud851-Sunshine/S12.04-Exercise-ResourceQualifiers" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-basic-course/data-storage-apps/ud845-Pets" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.01-Exercise-CreateLayout" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.03-Exercise-DisplayUrl" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.04-Exercise-ConnectingToTheInternet" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.06-Exercise-AddPolish" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson03-Green-Recycler-View/T03.01-Exercise-RecyclerViewLayout" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson03-Green-Recycler-View/T03.02-Exercise-ViewHolder" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson03-Green-Recycler-View/T03.03-Exercise-RecyclerViewAdapter" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson03-Green-Recycler-View/T03.07-Exercise-RecyclerViewClickHandling" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson04b-Webpages-Maps-and-Sharing/T04b.01-Exercise-OpenWebpage" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson04b-Webpages-Maps-and-Sharing/T04b.02-Exercise-OpenMap" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson04b-Webpages-Maps-and-Sharing/T04b.03-Exercise-ShareText" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson05a-Android-Lifecycle/T05a.01-Exercise-LogLifecycle" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson05a-Android-Lifecycle/T05a.02-Exercise-PersistData" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson05a-Android-Lifecycle/T05a.02-Solution-PersistData" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson05a-Android-Lifecycle/T05a.03-Exercise-FixLifecycleDisplayBug" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson05a-Android-Lifecycle/T05a.03-Solution-FixLifecycleDisplayBug" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.02-Exercise-AddAsyncTaskLoader" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.02-Solution-AddAsyncTaskLoader" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.03-Exercise-PolishAsyncTask" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson06-Visualizer-Preferences/T06.01-Exercise-SetupTheActivity" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson06-Visualizer-Preferences/T06.02-Exercise-MakeAPreferenceFragment" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson06-Visualizer-Preferences/T06.03-Exercise-ReadingFromSharedPreferences" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson06-Visualizer-Preferences/T06.04-Exercise-UseResources" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson08-Quiz-Example/T08.01-Exercise-AddTheContentProviderPermission" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson08-Quiz-Example/T08.02-Exercise-AddAsyncTaskToRetrieveCursor" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson08-Quiz-Example/T08.03-Exercise-FinishQuizExample" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.01-Exercise-CreateEntity" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.04-Exercise-Executors" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S01.01-Exercise-CreateLayout" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S01.02-Exercise-AddWeatherList" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S02.01-Exercise-Networking" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S02.01-Solution-Networking" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S02.02-Exercise-Menus" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S02.03-Exercise-Polish" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S03.01-Exercise-RecyclerView" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S03.01-Solution-RecyclerView" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S03.02-Exercise-RecyclerViewClickHandling" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S04.01-Exercise-LaunchNewActivity" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S04.02-Exercise-DisplayDayForecast" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S04.03-Exercise-AddMapAndSharing" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S04.03-Solution-AddMapAndSharing" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S05.01-Exercise-AsyncTaskLoader" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S06.01-Exercise-LaunchSettingsActivity" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/exercises-todo/ud851-Sunshine/S06.03-Exercise-PolishingPreferences" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../../../udacity-android-course/android-dev-nano-degree/lesson-1/sandwich-club-app/sandwich-club-starter-code" value="PREVIEW" />
-      </map>
+  <component name="ChangeListManager">
+    <list default="true" id="6bd43a5a-acce-4c74-abc4-3e619e932b36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JokeTellingLib/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JokeTellingLib/JokeTellingLib.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JokeTellingLib/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JokeTellingLib/src/main/java/com/sabkayar/praveen/joketellinglib/Joke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builditbigger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/builditbigger.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_28" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JokeTellingLib/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JokeTellingLib/JokeTellingLib.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JokeTellingLib/src/main/java/com/sabkayar/praveen/joketellinglib/Joke.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JokeTellingLib/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JokeTellingLib/src/main/java/com/sabkayar/praveen/joketellinglib/Joke.java" />
+      </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="825" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="builditbigger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="builditbigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="builditbigger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="builditbigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="JokeTellingLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="builditbigger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="builditbigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="JokeTellingLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="builditbigger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="builditbigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="JokeTellingLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="builditbigger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="builditbigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="JokeTellingLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="builditbigger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="builditbigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="JokeTellingLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="builditbigger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="builditbigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="JokeTellingLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sabkayar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="builditbigger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="builditbigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="JokeTellingLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sabkayar" type="462c0819:PsiDirectoryNode" />
+              <item name="praveen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="builditbigger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="builditbigger" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="JokeTellingLib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sabkayar" type="462c0819:PsiDirectoryNode" />
+              <item name="praveen" type="462c0819:PsiDirectoryNode" />
+              <item name="joketellinglib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="ZY3229TWP3" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-11-26T02:37:02.771Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -174,6 +263,79 @@
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bd43a5a-acce-4c74-abc4-3e619e932b36" name="Default Changelist" comment="" />
+      <created>1574735792797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574735792797</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="825" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3299712" />
+      <window_info id="Image Layers" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32913166" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Android Profiler" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32913166" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="right" id="Fabric" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokeTellingLib/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokeTellingLib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokeTellingLib/JokeTellingLib.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JokeTellingLib/src/main/java/com/sabkayar/praveen/joketellinglib/Joke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
