@@ -8,6 +8,7 @@ import android.view.ViewGroup;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.InterstitialAd;
 
 
 /**
@@ -18,6 +19,7 @@ public class MainActivityFragment extends Fragment {
     public MainActivityFragment() {
     }
 
+    private InterstitialAd mInterstitialAd;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {

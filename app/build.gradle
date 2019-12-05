@@ -23,6 +23,12 @@ android {
         multiDexEnabled true
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        def localPropertiesFile = rootProject.file("local.properties")
+        def localProperties = new Properties()
+        localProperties.load(new FileInputStream(localPropertiesFile))
+
+        buildConfigField("String","app_id_ad",localProperties['APP_ID_AD'])
     }
 
     buildTypes {
@@ -33,9 +39,24 @@ android {
     }
 
     lintOptions {
-        disable 'TypographyFractions','TypographyQuotes'
+        disable 'TypographyFractions', 'TypographyQuotes'
         abortOnError false
     }
+
+    flavorDimensions("version")
+    productFlavors {
+        free {
+            dimension "version"
+            applicationIdSuffix ".free"
+        }
+
+        paid {
+            dimension "version"
+            applicationIdSuffix ".paid"
+        }
+    }
+
+
 }
 
 dependencies {
@@ -48,14 +69,31 @@ dependencies {
     implementation 'com.google.http-client:google-http-client-android:1.23.0'
     implementation 'com.google.code.findbugs:jsr305:3.0.2'
 
-    implementation 'com.google.android.gms:play-services-ads:18.3.0'
+    freeImplementation 'com.google.android.gms:play-services-ads:18.3.0'
 
     androidTestImplementation('androidx.test.espresso:espresso-core:3.1.0', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
+
 
     testImplementation 'junit:junit:4.12'
 
     implementation project(":JokeTellingLib")
     implementation project(":showjokeandroidlib")
 }
+
+
+task testAndConnectedTest(dependsOn: ['test', 'connectedAndroidTest']) {
+    group = 'custom_tasks'
+    description = "Run all tests"
+}
+task testAll {
+    dependsOn ':backend:appengineStart'
+    dependsOn testAndConnectedTest
+    finalizedBy ':backend:appengineStop'
+    group = 'custom_tasks'
+    description = "Run all tests"
+}
+
+testAndConnectedTest.mustRunAfter ':backend:appengineStart'
+
