@@ -24,11 +24,6 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
-        def localPropertiesFile = rootProject.file("local.properties")
-        def localProperties = new Properties()
-        localProperties.load(new FileInputStream(localPropertiesFile))
-
-        buildConfigField("String","app_id_ad",localProperties['APP_ID_AD'])
     }
 
     buildTypes {
