@@ -13,28 +13,18 @@ import com.udacity.gradle.builditbigger.backend.myApi.MyApi;
 import java.io.IOException;
 import java.lang.ref.WeakReference;
 
-public class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
-    private WeakReference<Context> mContextWeakReference;
-    private WeakReference<ProgressBar> mProgressBarWeakReference;
+public class EndpointsAsyncTask extends AsyncTask<Void, Void, String> {
     private AsyncResponse delegate;
     private static MyApi myApiService = null;
 
 
-    public EndpointsAsyncTask(Context context, AsyncResponse asyncResponse) {
+    public EndpointsAsyncTask(AsyncResponse asyncResponse) {
         delegate = asyncResponse;
-        mContextWeakReference = new WeakReference<>(context);
-        mProgressBarWeakReference = new WeakReference<>((ProgressBar) ((AppCompatActivity) mContextWeakReference.get()).findViewById(R.id.progressBar));
     }
 
 
     @Override
-    protected void onPreExecute() {
-        super.onPreExecute();
-        mProgressBarWeakReference.get().setVisibility(View.VISIBLE);
-    }
-
-    @Override
-    protected String doInBackground(Context... params) {
+    protected String doInBackground(Void... params) {
         if (myApiService == null) {  // Only do this once
             MyApi.Builder builder = new MyApi.Builder(AndroidHttp.newCompatibleTransport(),
                     new AndroidJsonFactory(), null)
@@ -63,7 +53,6 @@ public class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
     @Override
     protected void onPostExecute(String result) {
         delegate.processFinish(result);
-        mProgressBarWeakReference.get().setVisibility(View.GONE);
     }
 
 

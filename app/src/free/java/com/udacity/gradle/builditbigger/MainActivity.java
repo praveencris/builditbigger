@@ -26,13 +26,14 @@ import java.lang.ref.WeakReference;
 
 
 public class MainActivity extends AppCompatActivity {
-
     private InterstitialAd mInterstitialAd;
+    private ProgressBar mProgressBar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        mProgressBar=findViewById(R.id.progressBar);
 
         // Create an ad request. Check logcat output for the hashed device ID to
         // get test ads on a physical device. e.g.
@@ -87,9 +88,11 @@ public class MainActivity extends AppCompatActivity {
         if(mInterstitialAd.isLoaded()){
             mInterstitialAd.show();
         }
-        new EndpointsAsyncTask(this, new EndpointsAsyncTask.AsyncResponse() {
+        mProgressBar.setVisibility(View.VISIBLE);
+        new EndpointsAsyncTask(new EndpointsAsyncTask.AsyncResponse() {
             @Override
             public void processFinish(String output) {
+                mProgressBar.setVisibility(View.GONE);
                 Toast.makeText(MainActivity.this, output, Toast.LENGTH_LONG).show();
                 startActivity(JokeShowingActivity.newIntent(MainActivity.this, output));
             }

@@ -1,21 +1,21 @@
-Dec 05, 2019 6:29:59 AM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
+Dec 05, 2019 4:30:10 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
 INFO: Overwriting system property key 'java.util.logging.config.file', value '/Users/praveen/Documents/ANDROIDWORK/google-cloud/google-cloud-sdk/platform/google_appengine/google/appengine/tools/java/config/sdk/logging.properties' with value 'WEB-INF/logging.properties' from '/Users/praveen/Documents/ANDROIDWORK/udacity-android-course/android-dev-nano-degree/Builditbigger/builditbigger/backend/build/exploded-backend/WEB-INF/appengine-web.xml'
-2019-12-05 06:29:59.341:INFO::main: Logging initialized @1167ms to org.eclipse.jetty.util.log.StdErrLog
-2019-12-05 06:29:59.409:WARN:oejs.AbstractConnector:main: Ignoring deprecated socket close linger time
-Dec 05, 2019 12:59:59 AM com.google.appengine.tools.development.IsolatedAppClassLoader checkWorkingDirectory
+2019-12-05 16:30:10.771:INFO::main: Logging initialized @1419ms to org.eclipse.jetty.util.log.StdErrLog
+2019-12-05 16:30:10.904:WARN:oejs.AbstractConnector:main: Ignoring deprecated socket close linger time
+Dec 05, 2019 11:00:11 AM com.google.appengine.tools.development.IsolatedAppClassLoader checkWorkingDirectory
 WARNING: Your working directory, (/Users/praveen/Documents/ANDROIDWORK/udacity-android-course/android-dev-nano-degree/Builditbigger/builditbigger/backend) is not equal to your 
 web application root (/Users/praveen/Documents/ANDROIDWORK/udacity-android-course/android-dev-nano-degree/Builditbigger/builditbigger/backend/build/exploded-backend)
 You will not be able to access files from your working directory on the production server.
 
-2019-12-05 06:29:59.921:INFO:oejs.Server:main: jetty-9.4.18.v20190429; built: 2019-04-29T20:42:08.989Z; git: e1bc35120a6617ee3df052294e433f3a25ce7097; jvm 1.8.0_202-release-1483-b49-5587405
-2019-12-05 06:30:00.457:INFO:oejsh.ContextHandler:main: Started c.g.a.t.d.j.DevAppEngineWebAppContext@548a24a{/,file:///Users/praveen/Documents/ANDROIDWORK/udacity-android-course/android-dev-nano-degree/Builditbigger/builditbigger/backend/build/exploded-backend/,AVAILABLE}{/Users/praveen/Documents/ANDROIDWORK/udacity-android-course/android-dev-nano-degree/Builditbigger/builditbigger/backend/build/exploded-backend}
-2019-12-05 06:30:00.459:INFO:oejs.session:main: DefaultSessionIdManager workerName=node0
-2019-12-05 06:30:00.460:INFO:oejs.session:main: node0 Scavenging disabled
-2019-12-05 06:30:00.493:INFO:oejs.AbstractConnector:main: Started NetworkTrafficSelectChannelConnector@3632be31{HTTP/1.1,[http/1.1]}{localhost:8080}
-2019-12-05 06:30:00.498:INFO:oejs.Server:main: Started @2323ms
-Dec 05, 2019 1:00:00 AM com.google.appengine.tools.development.AbstractModule startup
+2019-12-05 16:30:11.978:INFO:oejs.Server:main: jetty-9.4.18.v20190429; built: 2019-04-29T20:42:08.989Z; git: e1bc35120a6617ee3df052294e433f3a25ce7097; jvm 1.8.0_202-release-1483-b49-5587405
+2019-12-05 16:30:13.135:INFO:oejsh.ContextHandler:main: Started c.g.a.t.d.j.DevAppEngineWebAppContext@548a24a{/,file:///Users/praveen/Documents/ANDROIDWORK/udacity-android-course/android-dev-nano-degree/Builditbigger/builditbigger/backend/build/exploded-backend/,AVAILABLE}{/Users/praveen/Documents/ANDROIDWORK/udacity-android-course/android-dev-nano-degree/Builditbigger/builditbigger/backend/build/exploded-backend}
+2019-12-05 16:30:13.135:INFO:oejs.session:main: DefaultSessionIdManager workerName=node0
+2019-12-05 16:30:13.135:INFO:oejs.session:main: node0 Scavenging disabled
+2019-12-05 16:30:13.174:INFO:oejs.AbstractConnector:main: Started NetworkTrafficSelectChannelConnector@3632be31{HTTP/1.1,[http/1.1]}{localhost:8080}
+2019-12-05 16:30:13.178:INFO:oejs.Server:main: Started @3827ms
+Dec 05, 2019 11:00:13 AM com.google.appengine.tools.development.AbstractModule startup
 INFO: Module instance default is running at http://localhost:8080/
-Dec 05, 2019 1:00:00 AM com.google.appengine.tools.development.AbstractModule startup
+Dec 05, 2019 11:00:13 AM com.google.appengine.tools.development.AbstractModule startup
 INFO: The admin console is running at http://localhost:8080/_ah/admin
-Dec 05, 2019 6:30:00 AM com.google.appengine.tools.development.DevAppServerImpl doStart
+Dec 05, 2019 4:30:13 PM com.google.appengine.tools.development.DevAppServerImpl doStart
 INFO: Dev App Server is now running
